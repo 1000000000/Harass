@@ -2,7 +2,7 @@
 
 ---
 ### Description:
-A Haskell interpreter for the [Grass programming language](http://blue.sky.or.jp/grass/).
+A Haskell interpreter for [Grass](http://blue.sky.or.jp/grass/), an esoteric programming language.
 
 ---
 ### Goals:
